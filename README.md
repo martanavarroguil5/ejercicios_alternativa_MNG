@@ -1,4 +1,4 @@
-Este repositorio contiene soluciones a una serie de ejercicios implementados en Python. A continuación, se presenta una breve descripción de cada ejercicio y cómo acceder a las soluciones proporcionadas.
+Este repositorio contiene soluciones a una serie de ejercicios implementados en Python. A continuación, se presenta una breve descripción de cada ejercicio..
 
 
 **Ejercicio 1** En este ejercicio, se define una función para determinar el sucesor de un día de la semana.
